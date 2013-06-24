@@ -1,7 +1,7 @@
 /** @module TickerView */
 
 define([
-    'streamhub-zepto',
+    'streamhub-sdk/jquery',
     'streamhub-ticker/views/FeedTickerView',
     'streamhub-sdk',
     'streamhub-sdk/view',
